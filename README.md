@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/skyrimer/Social-proof-section.git](https://github.com/skyrimer/Social-proof-section.git)
-- Live Site URL: [https://pensive-babbage-ed7429.netlify.app](https://pensive-babbage-ed7429.netlify.app)
+- Live Site URL: [https://ecstatic-brattain-e818c4.netlify.app](https://ecstatic-brattain-e818c4.netlify.app)
 
 ### Built with
 - HTML5
